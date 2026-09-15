@@ -10,7 +10,7 @@ I'm currently focused on:
 - 🎬 AI-powered creative applications
 - 🚀 Turning AI ideas into real products
 ### Tech
-`Python` `TypeScript` `React` `FastAPI` `LLM` `Agent` `Docker`
+`Python` `Vue` `FastAPI` `LLM` `Agent` `Docker`
 ### What I'm building
 AI agents that can **think, use tools, and get things done.**
 
