@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋 I'm XiaoCai
 
-<!--
-**XiaoCai-dev/XiaoCai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🤖 Agent Developer building AI applications.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on:
+- 🧠 AI Agent & LLM applications
+- ⚙️ Agent architecture and tool calling
+- 🔗 Multi-Agent systems
+- 🎬 AI-powered creative applications
+- 🚀 Turning AI ideas into real products
+### Tech
+`Python` `TypeScript` `React` `FastAPI` `LLM` `Agent` `Docker`
+### What I'm building
+AI agents that can **think, use tools, and get things done.**
+
+---
+🌱 Keep building. Keep exploring.
