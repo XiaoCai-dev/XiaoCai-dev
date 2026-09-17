@@ -2,6 +2,7 @@
 
 > 🤖 Agent Developer building AI applications.
 
+My Blog：[blog](https://xiaocai-dev.github.io/XiaoCaiWorkshop.github.io/about/)
 
 I'm currently focused on:
 - 🧠 AI Agent & LLM applications
